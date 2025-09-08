@@ -1,16 +1,14 @@
-# hrms_app
+# Flutter HRMS App
 
-A new Flutter project.
+An HRMS application built using Flutter with Firebase integration.
+Features:
+- Attendance Tracker
+- Leave Management
+- Notifications
+- Profile Page
+- Payslip Page
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repo
+2. Run `flutter pub get`
+3. Run `flutter run`
