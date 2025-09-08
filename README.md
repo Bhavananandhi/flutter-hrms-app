@@ -7,6 +7,10 @@ Features:
 - Notifications
 - Profile Page
 - Payslip Page
+- Expenses Page
+- Resignation Page
+- Feedback Page
+- Settings Page
 
 ## Getting Started
 1. Clone the repo
